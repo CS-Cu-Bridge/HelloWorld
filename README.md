@@ -1,4 +1,4 @@
-# HelloWorld
+# Hello World
 Resources for the beginning of your CS journey
 
 ## What is this repository: 
