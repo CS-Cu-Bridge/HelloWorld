@@ -34,7 +34,7 @@ It should also show who the users of your project are. This will be important in
 
 [5] Pause! You've now got a description of how your project works. That said, your `README` isn't yet done. When ready, go to the next section. 
 
-### Conveying the Why
+### Conveying the why
 
 Look at your `README` again from the perspective of someone who has never seen your project. It should now explain how your project works, but a new reader won't necessarily know why they should use the project. 
 
