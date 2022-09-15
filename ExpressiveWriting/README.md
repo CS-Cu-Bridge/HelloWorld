@@ -44,7 +44,7 @@ First, include a brief `Background` section that gives the context on the proble
 
 Next, include a `My Project` section which should be appropriately titled for whatever your project is. For example, if your `Background` section covered the difficulties of knowing if your friend arrived at their destination on time when flying, you might call this section `My FlightTracker`. Under this section, include an overview of your achievements. That is explain what your project does to solve the problem and highlight any advantages to your project versus other existing solutions. Maybe your flight tracker refreshes faster than other options or has the ability to send SMS text alerts for a particular flight. 
 
-### What Your file Looks Like at the End
+### What your file looks Like at the end
 
 `Background`
 
