@@ -40,7 +40,7 @@ Look at your `README` again from the perspective of someone who has never seen y
 
 To do this, you'll want to add another section above what you wrote for the how (which you can title as a `Technical Details` section of the overall `README`)
 
-First, include a brief `Background` section that gives the context on the problem that your project solves. Make sure you include information describing how the problem arose and clearly state what the ultimate difficultes are that problem is causing. 
+First, include a brief `Background` section that gives the context on the problem that your project solves. Make sure you include information describing how the problem arose and clearly state what the the difficulties resulting from the problem for the intended users of your project. 
 
 Next, include a `My Project` section which should be appropriately titled for whatever your project is. For example, if your `Background` section covered the difficulties of knowing if your friend arrived at their destination on time when flying, you might call this section `My FlightTracker`. Under this section, include an overivew of your achievements. That is explain what your project does to solve the problem and highlight any advantages to your project versus other existing solutions. Maybe your flight tracker refreshes faster than other options or has the ability to receive SMS messages. 
 
