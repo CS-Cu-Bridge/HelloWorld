@@ -1,6 +1,6 @@
 ### Why should you read this?
 
-You should read this repository if you want to get others interested in a CS related piece of work you've done. After you've been working with a project for a while, it may be that you know how your project works and more importantly, you know why your project matters. That said, if you want your work to gain a wider audience and more users, you need to convey that how and why to others. This repository provides a few strategies to complete that task. 
+You should read this repository if you want to get others interested in a CS related piece of work you've done. After you've been working with a project for a while, it may be that you know how your project works and more importantly, you know why your project matters. That said, if you want your work to gain a wider audience and more users, you need to convey that how and why to others. This repository provides a few strategies to complete that task in the form of an example `README` you create for a personal project on GitHub.
 
 ### Why you should not read this?
 
