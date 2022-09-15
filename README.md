@@ -1,13 +1,14 @@
 # Hello World
 
-Resources for the beginning (or not the beginning) of your CS journey
+## Background: 
 
-## What is this repository: 
+The CS@CU MS Bridge program provides an opportunity to transition from other backgrounds into a career in computer science. Class is one important part of that transition, but the world of computer science is large with self learning also important to sucess. This repository is created by the students of the CS@CU MS Bridge program to help with their own self learning and to provide resources to others transitioning into computer science. 
 
-These are resources to help you become a better programmer and ultimately software engineer. They are helpful when you are just starting out with coding or
-when you are preparring to transition towards more advanced projects
+## How we are encouraging exploration (self-learning) within computer science 
 
-## Useful quick external links: 
+This repository includes different directories and corresponding `Readme` files created by CS@CU MS Bridge community of students. Each repository is made both as a learning experience for the contributors and to provide guides for future Bridge students and the general public. Below are also useful quick links for self-learning from external sources. 
+
+### Useful quick external links: 
 
 [The Missing Semester](https://missing.csail.mit.edu/)
 
