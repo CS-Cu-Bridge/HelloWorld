@@ -7,7 +7,7 @@ Resources for the beginning (or not the beginning) of your CS journey
 These are resources to help you become a better programmer and ultimately software engineer. They are helpful when you are just starting out with coding or
 when you are preparring to transition towards more advanced projects
 
-## Things you should know you that might not be covered in class: 
+## Useful quick external links: 
 
 [The Missing Semester](https://missing.csail.mit.edu/)
 
