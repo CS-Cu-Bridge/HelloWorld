@@ -4,7 +4,7 @@ Work in AI roughly falls into three main categories:
 
 - Research on the algorithms themselves
 - Application of AI/ML techniques to a specific task
- -Deployment and upscaling of an AI application
+- Deployment and upscaling of an AI application
 
 These categories are by no means discrete. Rather, they should be viewed as a continuous spectrum.
 
