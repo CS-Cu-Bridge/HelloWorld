@@ -17,4 +17,4 @@ when you are preparring to transition towards more advanced projects
 
 ## Directory guide
 
-### Expressive Writing for Computer Science: Conveying the how and the why of your technical work
+### [Expressive Writing for Computer Science: Conveying the how and the why of your technical work](https://github.com/CS-Cu-Bridge/HelloWorld/tree/main/ExpressiveWriting)
