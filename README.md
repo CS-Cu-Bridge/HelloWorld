@@ -2,7 +2,7 @@
 
 ## Background
 
-The CS@CU MS Bridge program provides an opportunity to transition from other backgrounds into a career in computer science. Class is one important part of that transition, but the world of computer science is large with self learning also important to sucess. This repository is created by the students of the CS@CU MS Bridge program to help with their own self learning and to provide resources to others transitioning into computer science. 
+The CS@CU MS Bridge program provides an opportunity to transition from other backgrounds into a career in computer science. Class is one important part of that transition, but the world of computer science is large with self-learning also being important to sucess. This repository is created by the students of the CS@CU MS Bridge program to help with their own self learning and to provide resources to others transitioning into computer science. 
 
 ## Hello World
 
