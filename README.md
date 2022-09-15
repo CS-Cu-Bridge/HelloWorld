@@ -15,3 +15,6 @@ when you are preparring to transition towards more advanced projects
 
 [Forking and Branches](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
+## Directory Guide
+
+### Expressive Writing for Computer Science: Conveying the how and the why of your technical work
