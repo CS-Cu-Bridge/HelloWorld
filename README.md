@@ -6,7 +6,7 @@ The CS@CU MS Bridge program provides an opportunity to transition from other bac
 
 ## Hello World
 
-One solution to encourgaing self-learning and the exploration of computer science is this GitHub repository. We title it Hello World in honor of the classic first program you make in computer science. It provides an opportunity for CS@CU MS Bridge students both in the Bridge and those who have transitioned to the full MS at Columbia an opportunity to learn about a topic, create a directory for it, and share their knowledge with and for the benefit of others. This is a not an official project of Columbia University
+One solution to encourgaing self-learning and the exploration of computer science is this GitHub repository. We title it Hello World in honor of the classic first program you make in computer science. It provides an opportunity for CS@CU MS Bridge students both in the Bridge and those who have transitioned to the full MS at Columbia an opportunity to learn about a topic, create a directory for it, and share their knowledge with and for the benefit of others. This is a not an official project of Columbia University.
 
 ## How we are encouraging exploration (self-learning) within computer science 
 
