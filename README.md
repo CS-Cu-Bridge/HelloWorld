@@ -23,3 +23,5 @@ This repository includes different directories and corresponding `Readme` files 
 ## Directory guide
 
 ### [Expressive Writing for Computer Science: Conveying the how and the why of your technical work](https://github.com/CS-Cu-Bridge/HelloWorld/tree/main/ExpressiveWriting)
+
+### [AI and ML Research+Experience](https://github.com/CS-Cu-Bridge/HelloWorld/tree/main/AI%20and%20ML%20Research%2BExperience)
