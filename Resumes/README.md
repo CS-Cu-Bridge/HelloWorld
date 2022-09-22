@@ -34,4 +34,5 @@ The below is a brief set of observations about what should go into a resume for 
 - Clubs you are a part of that relate to the position you want to do
 
 ## Other Formatting
-- Use wide margins 
+- Use narrow margins 
+- Try to use an email that's easy for an interviewer to remember
