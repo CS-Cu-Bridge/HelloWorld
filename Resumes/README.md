@@ -24,11 +24,14 @@ The below is a brief set of observations about what should go into a resume for 
 
 ### Work Experience
 - You want each bullet under a position to say what you did, its impact, and the technologies you used
+- Each bullet should demonstrate how you brought value to the organization
 - Try to use one line only per point, but if you do use more than one line, make sure you use the entire extra line (i.e., never have hanging words)
 - You can or cannot bold the technologies used in each bullet
+- If you have a long work history in a different field (e.g. law or consulting), consider compressing each job into a single bullet to make room for technical projects. 
 
 ### Project Experience
 - Similar to Work Experience but you don't need to include locations
+- If you have non-CS work experience, consider placing your projects above your work experience when applying for pure SWE roles
 
 ### Extracurriculars 
 - Clubs you are a part of that relate to the position you want to do
